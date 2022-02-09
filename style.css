@@ -2,8 +2,12 @@
 img {
   max-width: 150px;
 }
+h1 {
+  font-family: Anonymou;
+}
 body {
   background: #e2e2e2;
+  text-align: center;
 }
 a {
   color: #7e7ee6;

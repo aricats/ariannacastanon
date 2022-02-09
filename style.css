@@ -30,8 +30,11 @@ button {
     padding-left: 15px;
   width: 20vw;
   min-width: 100px;
-  transition: all 0.
   font-family: Courier;
   font-size: 15px;
   color: black;
+  box-shadow: 0 6px #bababa;
+}
+button:hover {
+  background-color: white;
 }

@@ -1,7 +1,10 @@
 
+img {
+  max-width: 150px;
+}
 body {
   background: #e2e2e2;
 }
 a {
-  color: blue;
+  color: #7e7ee6;
 }

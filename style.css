@@ -3,7 +3,8 @@ img {
   max-width: 150px;
 }
 h1 {
-  font-family: Anonymou;
+  font-family: Courier;
+  
 }
 body {
   background: #e2e2e2;
@@ -11,4 +12,8 @@ body {
 }
 a {
   color: #7e7ee6;
+}
+button {
+  margin: 1em;
+  background: transparent;
 }

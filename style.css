@@ -1,11 +1,9 @@
-
 img {
   max-width: 150px;
 }
 h1 {
   font-family: Courier;
   font-size: 40px;
-  
 }
 body {
   background: #e2e2e2;
@@ -15,19 +13,19 @@ a {
   color: #7e7ee6;
 }
 button {
-  margin: .5em;
+  margin: 0.5em;
   background: transparent;
   border: 2px solid;
   border-radius: 10px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
   padding: 15px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
-    padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
   width: 20vw;
   min-width: 100px;
   font-family: Courier;
@@ -37,4 +35,7 @@ button {
 }
 button:hover {
   background-color: white;
+}
+button:active {
+  transform: translatey(4px);
 }

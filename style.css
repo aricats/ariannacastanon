@@ -33,13 +33,14 @@ button {
   min-width: 100px;
   font-family: Courier;
   font-size: 15px;
-  color: black;
+  color: #8c40d1;
   box-shadow: 0 6px #bababa;
   margin: 0 auto;
   display: block;
   display: flex;
   justify-content: center;
   border-color: #8c40d1;
+  cursor: pointer;
 }
 button:hover {
   background-color: white;
@@ -49,8 +50,6 @@ button:active {
 }
 p {
   text-align: center;
+  font-size: 12px;
 }
 
-.pointer {
-  cursor: pointer;
-}

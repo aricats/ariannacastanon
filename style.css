@@ -37,6 +37,9 @@ button {
   box-shadow: 0 6px #bababa;
   margin: 0 auto;
   display: block;
+  display: flex;
+  justify-content: center;
+
 }
 button:hover {
   background-color: white;

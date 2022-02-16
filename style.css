@@ -41,6 +41,7 @@ button {
   justify-content: center;
   border-color: #8c40d1;
   cursor: pointer;
+  transition: background-color .5s ease;
 }
 button:hover {
   background-color: white;

@@ -50,3 +50,7 @@ button:active {
 p {
   text-align: center;
 }
+
+.pointer {
+  cursor: pointer;
+}

@@ -1,13 +1,16 @@
 img {
   max-width: 150px;
+  margin: 0 auto
+    display: block;
 }
 h1 {
   font-family: Courier;
   font-size: 40px;
+  text-align: center;
 }
 body {
   background: #e2e2e2;
-  text-align: center;
+
 }
 a {
   color: #7e7ee6;

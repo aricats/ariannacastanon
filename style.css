@@ -13,7 +13,7 @@ body {
   background: #e2e2e2;
 }
 a {
-  color: #7e7ee6;
+  text-decoration: none;
 }
 button {
   margin: 0.5em;
@@ -39,7 +39,7 @@ button {
   display: block;
   display: flex;
   justify-content: center;
-
+  border-color: #8c40d1;
 }
 button:hover {
   background-color: white;

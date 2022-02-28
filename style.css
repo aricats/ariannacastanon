@@ -9,7 +9,13 @@ h1 {
   font-family: "Playfair Display SC";
   font-size: 40px;
   text-align: center;
-  animation: gradText 8s infinite;
+  animation: color-change 10s infinite;
+
+}
+@keyframes color-change{
+      0% { color: #6636a6; }
+    50% { color: #72a2ec;}
+    100% { color: #6636a6; }
 }
 body {
   background: #e2e2e2;

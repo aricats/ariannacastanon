@@ -1,3 +1,7 @@
+:root {
+  --blue: #6636a6;
+}
+
 img {
   width: 100%;
   max-width: 180px;
@@ -5,11 +9,12 @@ img {
   display: block;
 }
 h1 {
-  color: #6636a6;
-  font-family: "Playfair Display SC";
+  color: var(--blue);
+  font-family: 'Playfair Display SC', serif;
   font-size: 45px;
   text-align: center;
   animation: color-change 10s infinite;
+  margin-top: 10px;
 
 }
 @keyframes color-change{
@@ -32,7 +37,7 @@ button {
   padding: 15px;
   width: 25vw;
   min-width: 200px;
-  font-family: El Messiri;
+  font-family: 'El Messiri', sans-serif;
   font-size: 20px;
   color: #8c40d1;
   box-shadow: 0 6px #bababa;
@@ -56,4 +61,5 @@ p {
 }
 footer {
   color: grey;
+  margin-bott
 }

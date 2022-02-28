@@ -19,6 +19,7 @@ h1 {
 }
 body {
   background: #e2e2e2;
+  overflow: scroll;
 }
 a {
   text-decoration: none;

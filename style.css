@@ -5,9 +5,11 @@ img {
   display: block;
 }
 h1 {
-  font-family: "BhuTuka Expanded One";
+  color: #6636a6;
+  font-family: "Playfair Display SC";
   font-size: 40px;
   text-align: center;
+  animation: gradText 8s infinite;
 }
 body {
   background: #e2e2e2;

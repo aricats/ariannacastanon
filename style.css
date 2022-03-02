@@ -20,7 +20,7 @@ h1 {
 @keyframes color-change{
       0% { color: black; }
     50% { color: #200fae;;}
-    100% { color: #310d8f; }
+    100% { color: black; }
 }
 body {
   background: #e2e2e2;

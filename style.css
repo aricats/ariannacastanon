@@ -18,12 +18,12 @@ h1 {
 
 }
 @keyframes color-change{
-      0% { color: white; }
-    50% { color: #70a6ea;}
-    100% { color: white; }
+      0% { color: #310d8f; }
+    50% { color: #821fe4;}
+    100% { color: #310d8f; }
 }
 body {
-  background: black;
+  background: #e2e2e2;
   overflow: scroll;
 }
 a {
@@ -39,18 +39,18 @@ button {
   min-width: 200px;
   font-family: 'El Messiri', sans-serif;
   font-size: 20px;
-  color: white;
-  box-shadow: 0 6px white;
+  color: #310d8f;
+  box-shadow: 0 6px #310d8f;
   margin: 0 auto;
   display: block;
   display: flex;
   justify-content: center;
-  border-color: white;
+  border-color: #310d8f;
   cursor: pointer;
   transition: background-color 0.5s ease;
 }
 button:hover {
-  background-color: #6355be;
+  background-color: #f8f8f8;
 }
 button:active {
   transform: translatey(4px);

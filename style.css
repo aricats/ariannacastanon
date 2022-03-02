@@ -19,7 +19,8 @@ h1 {
 }
 @keyframes color-change{
       0% { color: black; }
-    50% { color: #200fae;;}
+    30% { color: #6636a6;}
+    60% { color: #c64794;}
     100% { color: black; }
 }
 body {
@@ -31,7 +32,7 @@ a {
 }
 button {
   margin: 0.5em;
-  background: transparent;
+  background: linear-gradient(45deg, #9997f2, #e970b9);
   border: 2px solid;
   border-radius: 10px;
   padding: 15px;
@@ -57,8 +58,5 @@ button:active {
 }
 p {
   text-align: center;
-  font-size: 12px;
-}
-footer {
-
+  font-size: 5px;
 }

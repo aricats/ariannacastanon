@@ -18,9 +18,9 @@ h1 {
 
 }
 @keyframes color-change{
-      0% { color: #6636a6; }
-    50% { color: #1840b7;}
-    100% { color: #6636a6; }
+      0% { color: #310d8f; }
+    50% { color: #821fe4;}
+    100% { color: #310d8f; }
 }
 body {
   background: #e2e2e2;
@@ -50,7 +50,7 @@ button {
   transition: background-color 0.5s ease;
 }
 button:hover {
-  background-color: white;
+  background-color: #f8f8f8;
 }
 button:active {
   transform: translatey(4px);
@@ -60,5 +60,5 @@ p {
   font-size: 12px;
 }
 footer {
-  color: grey;
+
 }

@@ -18,8 +18,8 @@ h1 {
 
 }
 @keyframes color-change{
-      0% { color: #310d8f; }
-    50% { color: #821fe4;}
+      0% { color: black; }
+    50% { color: #200fae;;}
     100% { color: #310d8f; }
 }
 body {
@@ -39,13 +39,13 @@ button {
   min-width: 200px;
   font-family: 'El Messiri', sans-serif;
   font-size: 20px;
-  color: #310d8f;
-  box-shadow: 0 6px #310d8f;
+  color: black;
+  box-shadow: 0 6px black;
   margin: 0 auto;
   display: block;
   display: flex;
   justify-content: center;
-  border-color: #310d8f;
+  border-color: black;
   cursor: pointer;
   transition: background-color 0.5s ease;
 }
